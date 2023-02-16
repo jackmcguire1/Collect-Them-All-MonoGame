@@ -3,5 +3,5 @@
 ./CollectThemAll/bin/*
 ./CollectThemAll/bin/Debug/*
 
-**/bin/Debug/
+**/bin/
 **/obj/
