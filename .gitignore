@@ -1,4 +1,7 @@
 
 .vs/*
-obj/*
-bin/*
+./CollectThemAll/bin/*
+./CollectThemAll/bin/Debug/*
+
+**/bin/Debug/
+**/obj/
